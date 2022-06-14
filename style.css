@@ -71,7 +71,7 @@ body {
 .cake {
   width: 100%;
   position: absolute;
-  bottom: 5px;
+  bottom: 0px;
 }
 .top-layer,
 .middle-layer,
